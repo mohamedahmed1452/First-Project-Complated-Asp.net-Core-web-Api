@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Test_E_CommerceProject.Service.props" />
+</Project>

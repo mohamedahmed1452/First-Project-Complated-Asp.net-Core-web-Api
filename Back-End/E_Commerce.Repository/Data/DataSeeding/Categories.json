@@ -1,0 +1,70 @@
+[
+  {
+
+    "Name": "Frappuccino"
+  },
+  {
+
+    "Name": "Latte"
+  },
+  {
+
+    "Name": "Mocha"
+  },
+  {
+
+    "Name": "Macchiato"
+  },
+  {
+
+    "Name": "Matcha"
+  },
+  {
+
+    "Name": "Cake"
+  },
+  {
+
+    "Name": "Donuts"
+  },
+  {
+
+    "Name": "Salad"
+  },
+  {
+    "TypeId": 1,
+    "TypeName": "Electronics"
+  },
+  {
+    "TypeId": 2,
+    "TypeName": "Apparel"
+  },
+  {
+    "TypeId": 3,
+    "TypeName": "Home Appliances"
+  },
+  {
+    "TypeId": 4,
+    "TypeName": "Books"
+  },
+  {
+    "TypeId": 5,
+    "TypeName": "Toys"
+  },
+  {
+    "TypeId": 6,
+    "TypeName": "Groceries"
+  },
+  {
+    "TypeId": 7,
+    "TypeName": "Beauty"
+  },
+  {
+    "TypeId": 8,
+    "TypeName": "Fitness"
+  },
+  {
+    "TypeId": 9,
+    "TypeName": "Outdoor"
+  }
+]

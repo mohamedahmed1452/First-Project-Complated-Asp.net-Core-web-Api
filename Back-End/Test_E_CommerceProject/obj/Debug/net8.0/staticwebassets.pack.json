@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\Double Caramel Frappuccino.png",
+      "PackagePath": "staticwebassets\\images\\products\\Double Caramel Frappuccino.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Talabat.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Talabat.Api.props",
+      "PackagePath": "build\\Talabat.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Talabat.Api.props",
+      "PackagePath": "buildMultiTargeting\\Talabat.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Talabat.Api.props",
+      "PackagePath": "buildTransitive\\Talabat.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
